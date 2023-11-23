@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">hello_there 👋  ImJon()</h1></summary>
+    <summary><h1 style="display: inline-block">hello_there() 👋  ImJon()</h1></summary>
   </ul>
 </div>
 
@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">JuniorPythonDeveloper() and data_scientist</h2></summary>
+    <summary><h2 style="display: inline-block">JuniorPythonDeveloper() and data_scientist()</h2></summary>
   </ul>
 </div>
 
@@ -69,7 +69,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">technologies_i_code_with👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">TechnologiesICodeWith()👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -84,7 +84,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">ConnectWithMe()🤝</h2></summary>
+    <summary><h2 style="display: inline-block">connect_with_me()🤝</h2></summary>
   </ul>
 </div>
 
