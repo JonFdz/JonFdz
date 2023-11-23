@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello there! 👋, I'm Jon</h1></summary>
+    <summary><h1 style="display: inline-block">hello_there 👋  ImJon()</h1></summary>
   </ul>
 </div>
 
@@ -19,12 +19,11 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Junior Python developer and Data Scientist</h2></summary>
+    <summary><h2 style="display: inline-block">JuniorPythonDeveloper() and data_scientist</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-
 - 😄 I'm a coding geek and I love STEM topics.
 - 👨🏻‍💻 I'm currently working on my python skills and backend technologies like Django, Docker, MySQL, and more ...
 - 🔭 I like data analysis using technologies like Pandas, Numpy, Seaborn, Plotly, etc ...
@@ -35,6 +34,7 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
+  
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -60,34 +60,31 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jonfdz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+
 <!--- trophy (end) -->
-
-
 </p>        
-<!--- stats & Trophy (end) -->
 
+<!--- stats & Trophy (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Use👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">technologies_i_code_with👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,pytorch,tensorflow,regex,sqlite,mysql,postman,docker,git,github,ts,js,html,css,bootstrap,tailwind,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,pytorch,tensorflow,regex,sqlite,mysql,postman,docker,git,github,ts,js,html,css,bootstrap,tailwind,linux,raspberrypi,stackoverflow,vscode,discord,md&perline=6" />
   </a>
 </p>
-
-
-<!-- discord, raspberrypi, linux, stackoverflow, vscode, md, -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">ConnectWithMe()🤝</h2></summary>
   </ul>
 </div>
 
