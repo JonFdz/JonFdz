@@ -76,10 +76,12 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,tensorflow,python,github,html,postgresql,flask,django,linux,ai,pytorch,mysql,gcp,sqlite,bash,wordpress,md,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,pytorch,tensorflow,regex,sqlite,mysql,postman,docker,git,github,ts,js,html,css,bootstrap,tailwind,&perline=6" />
   </a>
 </p>
 
+
+<!-- discord, raspberrypi, linux, stackoverflow, vscode, md, -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
