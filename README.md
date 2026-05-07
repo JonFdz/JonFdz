@@ -1,122 +1,132 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">hello_there() 👋  ImJon()</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
+<!-- profile header -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:2563EB,100:F97316&text=Jon%20Fernandez&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=44&desc=TypeScript%20%7C%20C%2B%2B%20%7C%20Full-stack%20engineering&descAlign=50&descAlignY=62&animation=fadeIn" alt="Jon Fernandez profile header" />
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">JuniorPythonDeveloper() and data_scientist()</h2></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-- 😄 I'm a coding geek and I love STEM topics.
-- 👨🏻‍💻 I'm currently working on my python skills and backend technologies like Django, Docker, MySQL, and more ...
-- 🔭 I like data analysis using technologies like Pandas, Numpy, Seaborn, Plotly, etc ...
-- ​🤖​ I recently discovered the fascinating world of AI and Neural Networks and I'd explored tools like SKlearn, Tensorflow and Keras.
-- ​💪​ I look forward in improving my frontend skills and have a better fullstack perspective.
-- ⚡ Fun fact: I love Super Sentai (Power Rangers) and Kaijuu culture (Pacific Rim).
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jonfdz&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jonfdz&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jonfdz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jonfdz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-<!--- trophy (end) -->
-</p>        
-
-<!--- stats & Trophy (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">TechnologiesICodeWith()👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,pytorch,tensorflow,regex,sqlite,mysql,postman,docker,git,github,ts,js,html,css,bootstrap,tailwind,linux,raspberrypi,stackoverflow,vscode,discord,md&perline=6" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/jon-fdz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jon%20Fernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">connect_with_me()🤝</h2></summary>
-  </ul>
+  <a href="https://github.com/JonFdz">
+    <img src="https://img.shields.io/badge/GitHub-JonFdz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/jon-fdz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
-</p>
+<br />
 
-
-<!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=jonfdz&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <h2>buildProfile({ focus: "TypeScript + C++" })</h2>
+  <p>
+    I like building practical software, learning how things work under the hood, and turning ideas into clean, usable tools.
+  </p>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-----------------------------------------------------------------------
+## About me
 
-<!--
-**JonFdz/JonFdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ts
+const jon = {
+  role: "Developer focused on TypeScript and C++",
+  currentFocus: [
+    "full-stack applications",
+    "Angular / React Native frontends",
+    "Node.js + Express backends",
+    "clean architecture and maintainable code",
+  ],
+  systemsMode: ["C++", "performance", "low-level thinking", "problem solving"],
+  toolkit: ["TypeScript", "Angular", "Node.js", "Express", "SQLite", "Docker", "Git"],
+  previousChapter: ["Python", "data analysis", "automation", "AI / ML foundations"],
+  learningStyle: "build, break, debug, improve",
+  interests: ["STEM", "AI tooling", "Super Sentai", "Kaiju culture", "Pacific Rim energy"],
+};
+```
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently leaning deeper into **TypeScript**, **C++**, full-stack development and tooling.
+- 🧩 I enjoy connecting frontend, backend, databases and deployment into one coherent product.
+- 🛠️ I like projects where code quality, debugging and architecture matter as much as the feature itself.
+- 🐍 Python is still part of my background, especially for scripting, data and automation, but it is no longer the center of my profile.
+- ⚡ Fun fact: I love **Super Sentai / Power Rangers**, **Kaiju culture** and giant-robot energy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,express,cpp,cs,py,sqlite,mysql,docker,git,github,linux,bash,html,css,bootstrap,tailwind,vscode,postman,md&perline=8" alt="Tech stack icons" />
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <p>Angular, React / React Native, HTML, CSS, Bootstrap, Tailwind</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <p>Node.js, Express, REST APIs, SQLite, MySQL, Docker</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Core interests</h3>
+      <p>C++, architecture, testing, automation, performance, developer tooling</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I like building
+
+```yaml
+apps:
+  - full-stack tools with real users in mind
+  - clean dashboards and admin panels
+  - companion apps for hobbies and games
+  - automation scripts that remove repetitive work
+  - experiments that help me understand systems better
+
+values:
+  - simple interfaces
+  - readable code
+  - explicit data flows
+  - pragmatic architecture
+  - learning by shipping
+```
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonFdz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="JonFdz GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="JonFdz top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonFdz&theme=tokyonight&hide_border=true" alt="JonFdz GitHub streak" />
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+  <p>Always open to learning, building and improving one iteration at a time.</p>
+  <a href="https://www.linkedin.com/in/jon-fdz/">
+    <img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JonFdz&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F97316,50:2563EB,100:0F172A" alt="Footer wave" />
+</div>
