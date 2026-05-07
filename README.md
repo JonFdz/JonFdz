@@ -97,37 +97,24 @@ values:
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=JonFdz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=JonFdz&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonFdz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="JonFdz GitHub stats" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="JonFdz top languages" />
-  </picture>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonFdz&theme=tokyonight" alt="JonFdz GitHub profile summary" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JonFdz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=495" alt="JonFdz GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonFdz&theme=tokyonight" alt="JonFdz top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonFdz&theme=tokyonight" alt="JonFdz top languages by commit" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonFdz&theme=tokyonight" alt="JonFdz GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonFdz&theme=tokyonight&utcOffset=2" alt="JonFdz productive time summary" />
 </div>
 
 ---
