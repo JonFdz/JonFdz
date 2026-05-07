@@ -100,14 +100,34 @@ values:
 ## GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonFdz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="JonFdz GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="JonFdz top languages" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=JonFdz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=JonFdz&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonFdz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="JonFdz GitHub stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFdz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="JonFdz top languages" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonFdz&theme=tokyonight&hide_border=true" alt="JonFdz GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=JonFdz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=495" alt="JonFdz GitHub streak" />
 </div>
 
 ---
